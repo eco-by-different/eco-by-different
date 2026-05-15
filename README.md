@@ -1,6 +1,6 @@
 # eco-by-different
 
-Systems & encoding optimization
+System performance & encoding optimization
 
 ---
 
@@ -15,7 +15,7 @@ Systems & encoding optimization
 
 ### AI RAM Engine
 - https://github.com/eco-by-different/ai-ram-engine
-- CPU / RAM / power optimization tool
+- CPU, memory and power optimization tool
 - Designed for heavy workloads (e.g. encoding)
 
 ---
