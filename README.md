@@ -1,16 +1,35 @@
-## Hi there 👋
+# eco-by-different
 
-<!--
-**eco-by-different/eco-by-different** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems & encoding optimization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Low Bitrate Encoding
+- https://github.com/eco-by-different/low-bitrate-encoding
+- Efficient video encoding workflows (~100 MB/hour)
+- AviSynth + x264 optimization
+
+---
+
+### AI RAM Engine
+- https://github.com/eco-by-different/ai-ram-engine
+- CPU / RAM / power optimization tool
+- Designed for heavy workloads (e.g. encoding)
+
+---
+
+## Focus
+
+- Performance optimization
+- Low bitrate encoding
+- System-level tuning (Windows)
+
+---
+
+## Philosophy
+
+Maximize efficiency.  
+Minimize waste.  
+Keep it practical.
