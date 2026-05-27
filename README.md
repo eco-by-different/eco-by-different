@@ -20,11 +20,21 @@ System performance & encoding optimization
 
 ---
 
+### WinZSTD
+- https://github.com/eco-by-different/winzstd
+- Native Windows TAR/TAR.ZST compression GUI
+- Designed for easy archive creation from files and folders
+- No external binaries required
+
+---
+
 ## Focus
 
 - Performance optimization
 - Low bitrate encoding
 - System-level tuning (Windows)
+- Native Windows utilities
+- Data compression
 
 ---
 
