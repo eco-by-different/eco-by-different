@@ -6,7 +6,7 @@ System performance, encoding and compression optimization.
 
 ## Projects
 
-### SmartTAR STAR
+### SmartTAR - STAR
 - https://github.com/eco-by-different/smarttar-star
 - Experimental Windows PowerShell GUI archiver
 - Transparent `.star` archive containers based on Windows `tar.exe`
