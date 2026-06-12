@@ -8,10 +8,10 @@ System performance, encoding and compression optimization.
 
 ### SmartTAR - STAR
 - https://github.com/eco-by-different/smarttar-star
-- Experimental Windows PowerShell GUI archiver
+- Windows PowerShell GUI archiver
 - Transparent `.star` archive containers based on Windows `tar.exe`
 - Block manifest, SHA-256 verification and recovery-friendly design
-- Smart compression planning with Hybrid, Smart, Solid and Smart XZ modes
+- Smart compression planning with Balanced, Smart, Solid and Store modes
 
 ---
 
