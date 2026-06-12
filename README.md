@@ -9,9 +9,10 @@ System performance, encoding and compression optimization.
 ### SmartTAR - STAR
 - https://github.com/eco-by-different/smarttar-star
 - Windows PowerShell GUI archiver
-- Transparent `.star` archive containers based on Windows `tar.exe`
-- Block manifest, SHA-256 verification and recovery-friendly design
-- Smart compression planning with Balanced, Smart, Solid and Store modes
+- Not a custom compression algorithm
+- It is an orchestration layer over Windows tar.exe / bsdtar.
+- It plans blocks, selects STORE / XZ9 / ZSTD19 methods
+- Writes a manifest, verifies blocks, and keeps manual recovery possible with standard tar.exe.
 
 ---
 
