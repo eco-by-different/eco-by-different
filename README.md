@@ -6,6 +6,18 @@ System performance, encoding and compression optimization.
 
 ## Projects
 
+### Little Stream Detector (LSD)
+
+- https://github.com/eco-by-different/Little-Stream-Detector
+- Fast, portable, zero-dependency video stream analyzer for Windows
+- Native Matroska/WebM stream parsing
+- Native H.264/AVC and H.265/HEVC analysis
+- I/P/B picture statistics, GOP and bitrate profiles
+- Native frame-level HEVC SliceQPY/DRF analysis
+- No FFmpeg, FFprobe, MediaInfo, or administrator privileges required
+
+---
+
 ### SmartTAR - STAR
 - https://github.com/eco-by-different/smarttar-star
 - Windows PowerShell GUI archiver
