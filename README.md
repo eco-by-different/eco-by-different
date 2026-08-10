@@ -8,7 +8,7 @@ System performance, encoding and compression optimization.
 
 ### Little Stream Detector (LSD)
 
-- https://github.com/eco-by-different/Little-Stream-Detector
+- https://github.com/eco-by-different/LittleS-tream-Detector
 - Fast, portable, zero-dependency video stream analyzer for Windows
 - Native Matroska/WebM stream parsing
 - Native H.264/AVC and H.265/HEVC analysis
