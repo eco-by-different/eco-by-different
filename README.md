@@ -9,12 +9,16 @@ System performance, encoding and compression optimization.
 ### Little Stream Detector (LSD)
 
 - https://github.com/eco-by-different/Little-Stream-Detector
-- Fast, portable, zero-dependency video stream analyzer for Windows
-- Native Matroska/WebM stream parsing
-- Native H.264/AVC and H.265/HEVC analysis
-- I/P/B picture statistics, GOP and bitrate profiles
-- Native frame-level HEVC SliceQPY/DRF analysis
-- No FFmpeg, FFprobe, MediaInfo, or administrator privileges required
+- Native Matroska, WebM, MP4, M4V ,MOV and AVI parsing
+- Native XviD, AVC/H.264, HEVC/x265 and AV1 analysis
+- Native AAC, MP3, AC-3, and E-AC-3 audio analysis.
+- Frame-level QP asd DRF statistics
+- DRF distribution and summary statistics
+- GOP and I/P/B frame analysis
+- Bitrate profile visualization
+- Video and audio stream information
+- Summary, Streams, JSON and Log views
+- Portable application with zero external dependencies
 
 ---
 
