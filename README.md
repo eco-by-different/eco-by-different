@@ -10,7 +10,7 @@ System performance, encoding and compression optimization.
 
 - https://github.com/eco-by-different/Little-Stream-Detector
 - Native Matroska, WebM, MP4, M4V ,MOV and AVI parsing
-- Native XviD, AVC/H.264, HEVC/x265 and AV1 analysis
+- Native XviD, AVC/H.264, HEVC/x265, VP9 and AV1 analysis
 - Native PCM, MP3, AAS, AC-3, and E-AC-3 audio analysis.
 - Frame-level QP asd DRF statistics
 - DRF distribution and summary statistics
