@@ -36,7 +36,7 @@ System performance, encoding and compression optimization.
 - https://github.com/eco-by-different/winplay
 - WinPlay is a tiny and minimalist media player built exclusively for Windows.
 - It uses the native Windows multimedia components
-- Nn FFmpeg, external codecs, libraries, or installation are required.
+- No FFmpeg, external codecs, libraries, or installation are required.
 
 ---
 
