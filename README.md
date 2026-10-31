@@ -32,6 +32,14 @@ System performance, encoding and compression optimization.
 
 ---
 
+### Eco Media Server
+- https://github.com/eco-by-different/Eco-Media-Server
+- Eco Media Server
+- A lightweight, portable, and lightning-fast local DLNA/UPnP media server packed into a single executable.
+- Designed for ultimate privacy and efficiency with zero setup required.
+
+---
+
 ### WinPlay
 - https://github.com/eco-by-different/winplay
 - WinPlay is a tiny and minimalist media player built exclusively for Windows.
